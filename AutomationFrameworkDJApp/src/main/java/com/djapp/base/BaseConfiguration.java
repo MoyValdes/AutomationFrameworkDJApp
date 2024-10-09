@@ -21,6 +21,7 @@ public class BaseConfiguration {
 	
 	public BaseConfiguration () {
 		
+		//just a random comment
 		if(driver==null) {
 			System.out.println("-------Browser Session Started------");
 		    ChromeOptions options = new ChromeOptions();
