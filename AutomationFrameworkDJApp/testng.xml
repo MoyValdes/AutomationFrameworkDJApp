@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suite name = "Login Test Suite">
+   <test name = "LoginTest">
+      <classes>
+         <class name = "com.djapp.tests.LoginTest" />
+      </classes>
+   </test>
+</suite>
